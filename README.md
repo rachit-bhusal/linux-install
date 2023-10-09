@@ -6,16 +6,11 @@
       JS^\__/  qKL
      dZP        qKRb
     dZP          qKKb
-
-fZP SMMb
-HZM MMMM
-FqM MMMM
-**| ". |\dS"qML
-| `.       | `' \Zq
-_) \._**.,| .'
-\_\_\_\_ )MMMMMP| .'
-`-'       `--' hjm
-
-Tux, the Linux penguin
-
-![Tux](./tux-large.png)
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--' hjm
