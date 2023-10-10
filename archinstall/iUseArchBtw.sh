@@ -104,6 +104,8 @@ nvme0n1     259:0    0 476.9G  0 disk
                                       /
 mount -t ntfs3 /dev/sda1 /mnt
 
+sudo nano /etc/resolv.conf
+
 neofetch
 
                    -`                    rachit@iusearchbtw
