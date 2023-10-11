@@ -148,7 +148,7 @@ undervolt 4 'Analog I/O' 0
 sudo intel-undervolt apply
 sudo systemctl enable intel-undervolt.service
 
-sudo dnf install zsh
+sudo pacman -S zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 chsh -s $(which zsh)
 
